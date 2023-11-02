@@ -7,7 +7,7 @@ The Cryptid Dex will be built using a robust and modern tech stack. On the front
 
 The backend of the website is equally robust, with PostgreSQL managed through PGAdmin4 and Redis software. The Adonis framework serves as the middleware, with route testing performed through Insomnia.
 
-The core functionality of the website allows businesses to sign up and choose a cryptid from our database, based on availability. Each cryptid is represented by an 8-bit styled illustration, adding a nostalgic and fun element to the user experience.
+The core functionality of the website allows businesses to sign up and choose a virtual cryptid mascot from our database, based on availability. Each cryptid is represented by an 8-bit styled illustration, adding a nostalgic and fun element to the user experience.
 
 One of the key features of the Cryptid Dex is the integration with Google. This allows the chosen cryptid to be displayed on the official Google links of the business. Furthermore, businesses can conveniently import the cryptid illustrations from our API route to display on their own websites.
 
