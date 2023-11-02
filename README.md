@@ -9,8 +9,6 @@ The backend of the website is equally robust, with PostgreSQL managed through PG
 
 The core functionality of the website allows businesses to sign up and choose a virtual cryptid mascot from our database, based on availability. Each cryptid is represented by an 8-bit styled illustration, adding a nostalgic and fun element to the user experience.
 
-One of the key features of the Cryptid Dex is the integration with Google. This allows the chosen cryptid to be displayed on the official Google links of the business. Furthermore, businesses can conveniently import the cryptid illustrations from our API route to display on their own websites.
-
 The ultimate goal of the Cryptid Dex is to connect interesting mythologies with local small businesses, creating a unique and engaging experience for the community. This website prototype is not just a business tool, but a creative platform that brings folklore and local businesses together in a fun and interactive way.
 
 # Read me!  
