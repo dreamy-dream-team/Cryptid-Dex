@@ -1,4 +1,4 @@
-# CryptiDex
+# CryptiDex  Dorinda Abeyta, Robert Balch II, Kimberly Olson
 ### App contest 2023
 
 https://www.figma.com/proto/ClMlvu4hD3nAcVRv9jFPBm/Cryptid-Mascots?page-id=0%3A1&type=design&node-id=21-9&viewport=2025%2C-231%2C0.54&t=rxQqNb8vijoHxy2b-1&scaling=min-zoom&starting-point-node-id=72%3A107&mode=design
