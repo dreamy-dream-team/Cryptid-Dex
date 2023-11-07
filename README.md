@@ -25,7 +25,10 @@ The ultimate goal of the CryptiDex is to connect interesting mythologies with lo
 - Typescript  
 - HTML5  
 - CSS  
-- Postgresql  
+- Postgresql
+
+### APIs
+- ABQ Business Registration API
   
 ##### - Frontend -  
 - React  
