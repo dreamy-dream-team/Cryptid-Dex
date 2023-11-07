@@ -1,6 +1,8 @@
 # CryptiDex
 ### App contest 2023
 
+https://www.figma.com/proto/ClMlvu4hD3nAcVRv9jFPBm/Cryptid-Mascots?page-id=0%3A1&type=design&node-id=71-552&viewport=2025%2C-231%2C0.54&t=rxQqNb8vijoHxy2b-1&scaling=min-zoom&starting-point-node-id=72%3A107&mode=design
+
 Unveil the enchantment lurking just around the corner with CryptiDex: Your local business companion! Picture this: you stroll through your town, heading to your favorite local haunts. As you enter the business, you spot a mysterious QR code waiting to be scanned. You pull out your phone, scan it, and voilà! A unique cryptid creature materializes in your CryptiDex app, tied to that specific place.
 
 But that's just the beginning of your adventure! Each time you revisit the same place and scan the code, your cryptid companion grows bigger and even acquires special items to enhance its abilities. It's like nurturing a collection of living trading cards that thrive with your support.
