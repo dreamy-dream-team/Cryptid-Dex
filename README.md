@@ -47,9 +47,9 @@ The ultimate goal of the CryptiDex is to connect interesting mythologies with lo
 - Redis software / shell commands
 
 ## Screen grabs
-![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/be503ec9-c505-4ed9-9dcb-c6099cabba80)
-![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/190d42f1-acbb-42d9-aab2-0e5d08a27d1d)
-![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/2d5cc605-e919-4253-8eae-be57ed98cfd1)
+![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/f4b1faf8-5c39-4ba3-8e8b-7949c325eb1a)
+![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/873cca40-50ee-4168-b3de-97be067cb3bc)
+![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/b809bdcc-9471-44e5-89f5-7841b4e22bac)
 
 
 
