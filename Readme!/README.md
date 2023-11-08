@@ -1,9 +1,9 @@
 # CryptiDex
 
 ### App contest 2023 - Dorinda Abeyta - Creative Director, Robert Balch II - Development Architect, Kimberly Olson - UI/UX Engineer
-We are the Dreamy-Team, a dynamic trio that emerged from the CNM Ingenuity's Fullstack Bootcamp, Cohort 42. After graduating from the bootcamp, we discovered our shared love for gaming, and joined forces and embarked on a journey of collaboration and creativity to take on various tech side-quests, including participation in the UNM App contest. Our team comprises three individuals: Dorinda Abeyta, Robert Balch II, and Kimberly Olson, each contributing a unique set of skills and experiences to our development team.
+We are the Dreamy-Team, a dynamic trio that emerged from the CNM Ingenuity's Fullstack Bootcamp, Cohort 42. After graduating from the bootcamp, we discovered our shared love for gaming, and joined forces to embark on a collaboration and creativity journey taking on various tech side-quests, including participation in the UNM App contest. Our team comprises three individuals: Dorinda Abeyta, Robert Balch II, and Kimberly Olson, each contributing a unique set of skills and experiences to our development team.
 
-Dorinda, with a background in art and design, currently works as a marketing and engineering intern at a local startup, The Martini App. Meanwhile, Robert's diverse background, characterized by his analytical skills with experience in both agriculture and music, has equipped him to excel as a creative junior development intern at The Martini App. Lastly, Kimberly, who comes from a background in business and sales, has transitioned into a far more fulfilling role as a Website Administrator at beWellnm.
+Dorinda, with a background in art and design, currently works as a marketing and engineering intern at a local startup, The Martini App. Meanwhile, Robert's diverse background, characterized by his analytical skills with experience in both agriculture and music, has equipped him to excel as a creative junior development intern at The Martini App. Lastly, Kimberly, who comes from a background in business and sales, has transitioned into a role as a Website Administrator at beWellnm.
 
 Together, we form a well-rounded team ready to bring innovative ideas to life.
 
