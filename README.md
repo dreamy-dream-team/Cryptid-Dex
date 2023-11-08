@@ -45,3 +45,7 @@ The ultimate goal of the CryptiDex is to connect interesting mythologies with lo
 ##### - Backend -
 - PGAdmin4 DB Management software
 - Redis software / shell commands
+
+## Screen grabs
+![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/6fe74384-093c-4b71-a44e-a42b2d624b61)
+
