@@ -20,6 +20,8 @@ The core functionality of the website allows businesses to sign up and choose a 
 
 The ultimate goal of the CryptiDex is to connect interesting mythologies with local small businesses, creating a unique and engaging experience for the community. This website prototype is not just a business tool, but a creative platform that brings folklore and local businesses together in a fun and interactive way.
 
+---
+
 # Read me!
 
 ### Technologies -
@@ -43,6 +45,7 @@ The ultimate goal of the CryptiDex is to connect interesting mythologies with lo
 - Redux data store
 - Axios fetch utility
 - tailwindcss
+- node
 
 ##### - Middleware -
 
