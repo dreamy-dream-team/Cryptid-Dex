@@ -48,5 +48,9 @@ The ultimate goal of the CryptiDex is to connect interesting mythologies with lo
 
 ## Screen grabs
 ![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/be503ec9-c505-4ed9-9dcb-c6099cabba80)
+![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/190d42f1-acbb-42d9-aab2-0e5d08a27d1d)
+![image](https://github.com/dreamy-dream-team/Cryptid-Dex/assets/128653854/2d5cc605-e919-4253-8eae-be57ed98cfd1)
+
+
 
 
