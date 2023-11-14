@@ -51,6 +51,7 @@ The ultimate goal of the CryptiDex is to connect interesting mythologies with lo
 - Redux data store
 - Axios fetch utility
 - tailwindcss
+- formspree
 - node
 
 ##### - Middleware -
